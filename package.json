@@ -1,14 +1,13 @@
 {
   "name": "react-ui-lib-docs",
   "description": "Template to quick-start React library development with TypeScript.",
-  "private": true,
   "version": "1.0.0",
   "type": "module",
-  "author": "Your Name <your-email@example.com>",
+  "author": "Bruno Chirelli <brunochirelli@gmail.com>",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mlshv/create-react-ui-lib.git"
+    "url": "git+https://github.com/brunochirelli/react-ui-lib-docs.git"
   },
   "exports": {
     ".": {
